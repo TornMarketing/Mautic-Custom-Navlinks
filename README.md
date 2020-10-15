@@ -2,6 +2,9 @@
  
 Mautic Plugin that allows you to create custom navigation items 
 
+V1.0 Feature Walkthrough
+https://www.youtube.com/embed/Ya48-VxUvD8
+
 Features
 - Database driven navigation assembly
 - Admin and Primary navigation placement with order
@@ -16,4 +19,3 @@ Limitations
 Shared with love from the Torn Marketing Team
 https://tornmarketing.com.au
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ya48-VxUvD8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
