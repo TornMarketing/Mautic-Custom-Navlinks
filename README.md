@@ -23,12 +23,12 @@ https://www.youtube.com/embed/Ya48-VxUvD8
 - Clear cache
 - Navigate to plugin via admin menu /s/navlinks/1
 - Create new
---- Select Location (Admin/Primary)
---- Label of the link
---- URL of the link
---- Nav type (_blank, iframe)
---- Save and Close
---- Clear Cache (This will rebuild the config files and update everything)
+ - Select Location (Admin/Primary)
+ - Label of the link
+ - URL of the link
+ - Nav type (_blank, iframe)
+ - Save and Close
+ - Clear Cache (This will rebuild the config files and update everything)
 
 <h2>Torn Marketing</h2>
 Shared with love from the Torn Marketing Team
