@@ -5,6 +5,11 @@ Mautic Plugin that allows you to create custom navigation items
 ## V1.0 Feature Walkthrough 
 https://www.youtube.com/embed/Ya48-VxUvD8
 
+Updated with composer json v4.0 
+
+Please note - this plugin is not actively supported and no updates will be looked at unless it annoys me directly in my daily business use.
+Feel free to fork and modify to your hearts content
+
 ## Features
 - Database driven navigation assembly
 - Admin and Primary navigation placement with order
