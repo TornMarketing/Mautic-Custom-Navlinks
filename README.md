@@ -33,7 +33,8 @@ Feel free to fork and modify to your hearts content
  - URL of the link
  - Nav type (_blank, iframe)
  - Save and Close
- - Clear Cache (This will rebuild the config files and update everything)
+ - Clear Cache After Install and every modification/new link (This will rebuild the config files, update and recompile everything)
+
 
 ## Torn Marketing 
 Shared with love from the Torn Marketing Team
